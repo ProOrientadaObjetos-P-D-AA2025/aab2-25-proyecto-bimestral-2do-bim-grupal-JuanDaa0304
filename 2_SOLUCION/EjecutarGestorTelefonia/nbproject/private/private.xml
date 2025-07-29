@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Controlador/ClienteControlador.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Controlador/FacturaControlador.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Controlador/PlanControlador.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/DAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/DAO/FacturaDAO.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/DAO/PlanDAO.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/Cliente.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/Dispositivo.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/Factura.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/Plan.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/PlanPostPagoMegas.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/PlanPostPagoMinutos.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/PlanPostPagoMinutosMegas.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Modelo/PlanPostPagoMinutosMegasEconomico.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/Vista/GestorTelefonia.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/servicio/CalculadoraCostos.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/servicio/ValidadorDatos.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/src/util/ConexionSQLite.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/test/DAO/ClienteDAOTest.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/test/DAO/FacturaDAOTest.java</file>
+            <file>file:/C:/Users/A%20S%20U%20S/Documents/PROYECTO%20POO%202DO%20BIM/EjecutarGestorTelefonia/test/DAO/PlanDAOTest.java</file>
+        </group>
+    </open-files>
+</project-private>
